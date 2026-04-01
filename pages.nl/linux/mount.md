@@ -1,6 +1,7 @@
 # mount
 
 > Krijg toegang tot een volledig bestandssysteem in één map.
+> Zie ook: `udisksctl`.
 > Meer informatie: <https://manned.org/mount.8>.
 
 - Toon alle gemounte bestandssystemen:
