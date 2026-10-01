@@ -1,6 +1,7 @@
 # ip rule
 
 > Gestión de bases de datos de políticas de enrutamiento IP.
+> Vea también: `ip route`.
 > Más información: <https://manned.org/ip-rule>.
 
 - Muestra la política de enrutamiento:
